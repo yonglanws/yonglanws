@@ -1,7 +1,10 @@
-# 你好 👏
+# 你好 👋 我是慵懒午睡
 
-我是慵懒午睡，一名来自中国河北的高中生，目前休学中
+来自中国河北的高中生，目前休学中  
+热衷于全栈开发与算法竞赛，享受从 0 到 1 构建项目的过程。
 
-也许是全栈开发者，OIer
+### 🛠 Tech Stack
+[![My Skills](https://skillicons.dev/icons?i=cpp,python,js,ts,vue,nodejs,linux&perline=7)](https://skillicons.dev)
 
-我的QQ:2155762216
+### 📫 联系我
+- QQ: `2155762216`
