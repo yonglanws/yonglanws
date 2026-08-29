@@ -4,6 +4,8 @@
 
 术力口批，也许是烤p
 
+本人已开学，仅周末在线
+
 ### 🛠 Tech Stack
 [![My Skills](https://skillicons.dev/icons?i=python,vue,js,linux,godot&perline=5)](https://skillicons.dev)
 
