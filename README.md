@@ -1,10 +1,10 @@
 # 你好 👋 我是慵懒午睡
 
-一名来自中国河北的高中生
+一名来自中国河北的准高二生
 
 术力口批，也许是烤p
 
-本人已开学，仅周末在线
+已开学，仅周末在线
 
 ### 🛠 Tech Stack
 [![My Skills](https://skillicons.dev/icons?i=python,vue,js,linux,godot&perline=5)](https://skillicons.dev)
