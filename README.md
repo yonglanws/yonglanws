@@ -6,8 +6,5 @@
 
 已开学，仅周末在线
 
-### 🛠 Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=python,vue,js,linux,godot&perline=5)](https://skillicons.dev)
-
 ### 📫 联系我
 - QQ: `2155762216`
