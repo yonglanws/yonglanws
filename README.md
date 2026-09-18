@@ -3,6 +3,7 @@
 # 你好 👋 我是慵懒午睡
 
 <img align="right" src="https://raw.githubusercontent.com/yonglanws/yonglanws/main/emu11.png" width="200" alt="emu11">
+<img align="right" src="https://raw.githubusercontent.com/yonglanws/yonglanws/main/tsukasa9.png" width="200" alt="tsukasa9">
 
 一名来自中国河北的高二生
 
